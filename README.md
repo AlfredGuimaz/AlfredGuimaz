@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlfredGuimaz
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... alfredguimaz@pgatourhq.com
+- 👋 Hi, I’m @AlfredGuimaz Alfred Guimaztdinov
+- 👀 I’m interested in Android; Basketball; working out; surfing
+- 🌱 I’m currently learning Android; how to surf :)
+- 💞️ I’m looking to collaborate on some cool projects
+- 📫 How to reach me ... alfredguimaz{at}pgatourhq{dot}com
 
 <!---
 AlfredGuimaz/AlfredGuimaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
