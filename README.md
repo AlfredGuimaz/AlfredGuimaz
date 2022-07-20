@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Android; how to surf :)
 - 💞️ I’m looking to collaborate on some cool projects
 ```diff
-- "It's okay to look back at the past, just don't stare."
-
+- better than yesterday
